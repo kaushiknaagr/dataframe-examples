@@ -4,7 +4,7 @@
 # Login to Git and create repo
 # Git clone, checkout and pull locally
 git clone <repo_url>
-git checkput
+git checkout
 git pull
 # Add .gitignore file inside
 # Create a project in PyCharm from that folder
